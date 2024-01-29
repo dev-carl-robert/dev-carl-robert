@@ -15,7 +15,7 @@ Aqui estão alguns dos recursos que eu uso para estudar JavaScript:
 - [Potência Tech iFood - Programação do Zero - DIO]: Um bootcamp que estudarei  princípios da lógica de programação, começando por conceitos
   introdutórios, desde a exploração de algoritmos, variáveis e estruturas condicionais até a implementação de estruturas de repetição e operadores lógicos e de comparação.
 
-- [Full stack - Origamid]: Curso online completo Front-End, que contem cursos como JavaScript, Html, Css, Ux design, React, Wordpress, TypeScript
+- [Front-End - Origamid]: Curso online completo Front-End, que contem cursos como JavaScript, Html, Css, Ux design, React, Wordpress, TypeScript
 ## 📫 Como me encontrar
 
 Você pode entrar em contato comigo através dos seguintes canais:
