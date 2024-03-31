@@ -4,7 +4,7 @@ Sou um estudante de JavaScript apaixonado por desenvolvimento web e tecnologia. 
 
 ## 🚀 Meus projetos
 
-Aqui estão alguns dos projetos que eu fiz usando JavaScript:
+Aqui estão alguns dos projetos front-end que eu fiz:
 
 - Website Hinode Max: https://github.com/dev-carl-robert/E-comerce_Hinode-max
 
