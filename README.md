@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D4D10AQGzBd6hLfLUmA/image-shrink_800/0/1722462437329?e=1723068000&v=beta&t=zhs9919ughd0OZfNOUXNnHV5juMWUt9GMVtYi7KTYnw"  />
-</div>
-
 ###
 
 <div align="center">
@@ -30,7 +26,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
 
@@ -50,18 +46,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Meus Status :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dev-carl-robert &locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4D10AQGBtyXyLNRhyw/image-shrink_800/0/1722462437018?e=1723071600&v=beta&t=4ZWWNjwCVaC3p6QGVLdGfFqTAoT3mqdCyBpojUuy9x4"  />
 </div>
 
 ###
